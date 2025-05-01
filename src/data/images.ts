@@ -1,12 +1,12 @@
 export const images = {
   switzerland: [
     {
-      url: 'https://tse3.mm.bing.net/th/id/OIP.mMM_aKhmdDJbk3AzMFrgJAHaE8?rs=1&pid=ImgDetMain',
+      url: '/content/luzern-1.jpg',
       alt: 'Kapellbrücke in Luzern',
       caption: 'Notre maison en Suisse / Unser Zuhause in der Schweiz'
     },
     {
-      url: 'https://www.lu-wahlen.ch/uploads/pics/PlanLumiere_Torbogen_Bild_231114.jpg',
+      url: '/content/luzern-2.jpg',
       alt: 'Torbogen in Luzern',
       caption: 'Torbogen Luzern / Arc de Lucerne'
     }
